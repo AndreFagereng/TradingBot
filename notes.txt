@@ -2,11 +2,16 @@ Research papers
 
 FOREX Trend Classification using Machine Learning Techniques
 	- Binary Classificatication. (Uptrend, Downtrend) Long term
-	- Type of benchmark test, using different feature extraction and feature selection techniques.
+	- Type of benchmark test, using different feature extraction/selection and ML techniques.
 	- Best performance in general
 		- Extraction/Selection features: Bagging Trees, SVM - Based
 		- Classification model: SVM, MLP
 Link: http://www.wseas.us/e-library/conferences/2011/Penang/ACRE/ACRE-05.pdf
+
+Kaggle:
+
+Stock predictions with Multi-Head Attention
+Link: https://www.kaggle.com/miljan/stock-predictions-with-multi-head-attention
 
 Project strategies:
 
